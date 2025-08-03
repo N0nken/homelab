@@ -1,0 +1,6 @@
+{
+    "inventories":["fridge", "freezer", "pantry"],
+    "fridge":[],
+    "freezer":[],
+    "pantry":[]
+}
